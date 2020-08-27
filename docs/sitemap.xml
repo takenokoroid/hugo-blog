@@ -3,32 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://takenokoroid.github.io/blog/tags/daily/</loc>
+    <loc>https://takenokoroid.github.io/hugo-blog/about/</loc>
+    <lastmod>2020-08-28T00:00:26+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takenokoroid.github.io/hugo-blog/tags/daily/</loc>
     <lastmod>2020-08-27T23:57:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://takenokoroid.github.io/blog/posts/</loc>
+    <loc>https://takenokoroid.github.io/hugo-blog/post/</loc>
     <lastmod>2020-08-27T23:57:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://takenokoroid.github.io/blog/tags/</loc>
+    <loc>https://takenokoroid.github.io/hugo-blog/tags/</loc>
     <lastmod>2020-08-27T23:57:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://takenokoroid.github.io/blog/</loc>
+    <loc>https://takenokoroid.github.io/hugo-blog/</loc>
     <lastmod>2020-08-27T23:57:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://takenokoroid.github.io/blog/posts/first-article/</loc>
+    <loc>https://takenokoroid.github.io/hugo-blog/post/first-article/</loc>
     <lastmod>2020-08-27T23:57:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://takenokoroid.github.io/blog/categories/</loc>
+    <loc>https://takenokoroid.github.io/hugo-blog/categories/</loc>
   </url>
   
 </urlset>
