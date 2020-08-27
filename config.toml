@@ -1,4 +1,4 @@
-baseURL = "https://takenokoroid.github.io/blog"
+baseURL = "https://takenokoroid.github.io/hugo-blog"
 publishDir = "docs"
 languageCode = "ja"
 title = "The Realms of the Unreal"
