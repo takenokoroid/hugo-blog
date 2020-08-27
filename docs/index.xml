@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Realms of the Unreal</title>
-    <link>https://takenokoroid.github.io/</link>
+    <link>http://takenokoroid.tk/</link>
     <description>Recent content on The Realms of the Unreal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright Year, Your Name</copyright>
-    <lastBuildDate>Thu, 27 Aug 2020 23:57:47 +0900</lastBuildDate><atom:link href="https://takenokoroid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2020 23:57:47 +0900</lastBuildDate><atom:link href="http://takenokoroid.tk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://takenokoroid.github.io/about/</link>
+      <link>http://takenokoroid.tk/about/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:26 +0900</pubDate>
       
-      <guid>https://takenokoroid.github.io/about/</guid>
+      <guid>http://takenokoroid.tk/about/</guid>
       <description>test</description>
     </item>
     
     <item>
       <title>はじめまして（てすと）</title>
-      <link>https://takenokoroid.github.io/post/first-article/</link>
+      <link>http://takenokoroid.tk/post/first-article/</link>
       <pubDate>Thu, 27 Aug 2020 23:57:47 +0900</pubDate>
       
-      <guid>https://takenokoroid.github.io/post/first-article/</guid>
+      <guid>http://takenokoroid.tk/post/first-article/</guid>
       <description>hugo でブログ！ うおおおおおおおおおおおおおお</description>
     </item>
     
