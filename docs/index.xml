@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright 2020, takenokoroid</copyright>
-    <lastBuildDate>Thu, 27 Aug 2020 23:57:47 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 04:43:42 +0900</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Sat, 29 Aug 2020 04:43:42 +0900</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>About</title>
@@ -19,16 +29,6 @@
       
       <guid>/about/</guid>
       <description>人生一周目です。お手柔らかにお願いします。 フロントエンドエンジニア自称して、主にVueを触って開発してきました。 ポートフォリオはこちらから 思</description>
-      
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Thu, 27 Aug 2020 23:57:47 +0900</pubDate>
-      
-      <guid>/post/</guid>
-      <description></description>
       
     </item>
     
