@@ -11,19 +11,19 @@ categories:
 ---
 
 # hugo でブログ！
-# なぜはじめたの？
+## なぜはじめたの？
 ![image](https://user-images.githubusercontent.com/52944041/91435961-2b7a4200-e8a2-11ea-81b3-aec577125410.png)
 https://twitter.com/takenokoroid/status/1298323254445084673
 
-# なにつかったの？
-## Hugo
+## なにつかったの？
+### Hugo
 静的サイトジェネレーター
-## GithubPages
+### GithubPages
 ウェブホスティングサービス
-## Freenum
+### Freenum
 無料ドメイン取得
 12か月で取得したので1年後更新が必要
-# 参考文献
+## 参考文献
 https://qiita.com/yotsak/items/017734d5f873f4f194d4
 
 
