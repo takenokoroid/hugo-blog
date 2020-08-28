@@ -10,7 +10,7 @@ categories:
     - diary
 ---
 
-# hugo でブログ！
+
 ## なぜはじめたの？
 ![image](https://user-images.githubusercontent.com/52944041/91435961-2b7a4200-e8a2-11ea-81b3-aec577125410.png)
 https://twitter.com/takenokoroid/status/1298323254445084673
