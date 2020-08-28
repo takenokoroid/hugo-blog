@@ -8,6 +8,7 @@ enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
 copyright = "&copy; Copyright 2020, takenokoroid"
+hasCJKLanguage = true
 
 #------Hugo-notepadium Settings-------- 
 # Goldmark Settings
