@@ -23,12 +23,17 @@
     </item>
     
     <item>
-      <title>はじめまして（てすと）</title>
+      <title>はじめましての投稿</title>
       <link>http://takenokoroid.tk/post/first-article/</link>
       <pubDate>Thu, 27 Aug 2020 23:57:47 +0900</pubDate>
       
       <guid>http://takenokoroid.tk/post/first-article/</guid>
-      <description>hugo でブログ！ うおおおおおおおおおおおおおお</description>
+      <description>hugo でブログ！ なぜはじめたの？ https://twitter.com/takenokoroid/status/1298323254445084673
+なにつかったの？ Hugo 静的サイトジェネレーター
+GithubPages ウェブホスティングサービス
+Freenum 無料ドメイン取得
+12か月で取得したので1年後更新が必要
+参考文献 https://qiita.com/yotsak/items/017734d5f873f4f194d4</description>
     </item>
     
   </channel>

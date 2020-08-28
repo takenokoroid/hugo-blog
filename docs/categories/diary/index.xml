@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Realms of the Unreal</title>
-    <link>http://takenokoroid.tk/post/</link>
-    <description>Recent content in Posts on The Realms of the Unreal</description>
+    <title>diary on The Realms of the Unreal</title>
+    <link>http://takenokoroid.tk/categories/diary/</link>
+    <description>Recent content in diary on The Realms of the Unreal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright 2020, takenokoroid</copyright>
-    <lastBuildDate>Thu, 27 Aug 2020 23:57:47 +0900</lastBuildDate><atom:link href="http://takenokoroid.tk/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2020 23:57:47 +0900</lastBuildDate><atom:link href="http://takenokoroid.tk/categories/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>はじめましての投稿</title>
       <link>http://takenokoroid.tk/post/first-article/</link>
