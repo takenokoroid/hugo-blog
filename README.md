@@ -9,7 +9,7 @@ https://twitter.com/takenokoroid/status/1298323254445084673
 ウェブホスティングサービス
 ## Freenum
 無料ドメイン取得
-
+12か月で取得したので1年後更新が必要
 # Site
 http://takenokoroid.tk/
 # References
