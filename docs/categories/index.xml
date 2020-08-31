@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright 2020, takenokoroid</copyright>
-    <lastBuildDate>Sat, 29 Aug 2020 04:43:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:37:33 +0900</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>diary</title>
+      <link>/categories/diary/</link>
+      <pubDate>Tue, 01 Sep 2020 00:37:33 +0900</pubDate>
+      
+      <guid>/categories/diary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>/categories/game/</link>
+      <pubDate>Tue, 01 Sep 2020 00:37:33 +0900</pubDate>
+      
+      <guid>/categories/game/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Fundamental</title>
@@ -18,16 +38,6 @@
       <pubDate>Sat, 29 Aug 2020 04:43:42 +0900</pubDate>
       
       <guid>/categories/fundamental/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>diary</title>
-      <link>/categories/diary/</link>
-      <pubDate>Thu, 27 Aug 2020 23:57:47 +0900</pubDate>
-      
-      <guid>/categories/diary/</guid>
       <description></description>
       
     </item>
