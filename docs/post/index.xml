@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright 2020, takenokoroid</copyright>
-    <lastBuildDate>Tue, 01 Sep 2020 00:37:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 21:27:15 +0900</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>auPayと認知度の話</title>
+      <link>/post/au-pay/</link>
+      <pubDate>Wed, 02 Sep 2020 21:27:15 +0900</pubDate>
+      
+      <guid>/post/au-pay/</guid>
+      <description>ちょっと前に仲間内で ○○Pay の話をしたんですよね そのときに、ある人が「auPay は名づけをミスったよねー」「あれじゃ au ユーザーしか使えない</description>
+      
+    </item>
     
     <item>
       <title>Dye the Sky.の罠</title>
@@ -38,7 +48,7 @@
       <pubDate>Thu, 27 Aug 2020 23:57:47 +0900</pubDate>
       
       <guid>/post/first-article/</guid>
-      <description>なぜはじめたの？ https://twitter.com/takenokoroid/status/1298323254445084673 なにつかったの？ Hugo 静的サイトジェネレーター GithubPages ウェブホスティングサービス Freenum 無料ドメイン取得 12か月で取得したので1年後更新が</description>
+      <description>なぜはじめたの？ https://twitter.com/takenokoroid/status/1298323254445084673 なにつかったの？ Hugo 静的サイトジェネレーター GithubPages ウェブホスティングサービス Freenum 無料ドメイン取得 12 か月で取得したので 1 年後更新が必</description>
       
     </item>
     
