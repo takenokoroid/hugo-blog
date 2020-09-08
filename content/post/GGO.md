@@ -1,7 +1,7 @@
 ---
 title: "SAOAGGOみました＋雑記"
 date: 2020-09-08T21:25:30+09:00
-draft: true
+draft: false
 tags:
   -
 categories:
