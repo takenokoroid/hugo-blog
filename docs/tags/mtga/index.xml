@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MTGA on The Realms of the Unreal</title>
+    <link>/tags/mtga/</link>
+    <description>Recent content in MTGA on The Realms of the Unreal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; Copyright 2020, takenokoroid</copyright>
+    <lastBuildDate>Fri, 09 Oct 2020 14:27:18 +0900</lastBuildDate>
+    
+        <atom:link href="/tags/mtga/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ドラフト雑記</title>
+      <link>/post/mtg-draft-diary-1/mdd-1/</link>
+      <pubDate>Fri, 09 Oct 2020 14:27:18 +0900</pubDate>
+      
+      <guid>/post/mtg-draft-diary-1/mdd-1/</guid>
+      <description>MTGA 復帰しました。 ハースストーンが終わってるのは昔からですが、バトグラも死んで来たので MTG に手を出した次第です。 とりあえず 10000 ジェム買ってドラフト</description>
+      
+    </item>
+    
+  </channel>
+</rss>

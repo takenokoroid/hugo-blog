@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright 2020, takenokoroid</copyright>
-    <lastBuildDate>Fri, 18 Sep 2020 00:56:39 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2020 14:27:18 +0900</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ドラフト雑記</title>
+      <link>/post/mtg-draft-diary-1/mdd-1/</link>
+      <pubDate>Fri, 09 Oct 2020 14:27:18 +0900</pubDate>
+      
+      <guid>/post/mtg-draft-diary-1/mdd-1/</guid>
+      <description>MTGA 復帰しました。 ハースストーンが終わってるのは昔からですが、バトグラも死んで来たので MTG に手を出した次第です。 とりあえず 10000 ジェム買ってドラフト</description>
+      
+    </item>
     
     <item>
       <title>ルフ魔女のコントローラー設定で沼った話</title>
