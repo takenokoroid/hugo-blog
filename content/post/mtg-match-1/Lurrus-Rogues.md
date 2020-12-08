@@ -1,5 +1,5 @@
 ---
-title: "Lurrus-Rogues"
+title: "ルールスローグでマッチイベント"
 date: 2020-12-08T18:56:52+09:00
 draft: false
 tags:
