@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright 2020, takenokoroid</copyright>
-    <lastBuildDate>Fri, 09 Oct 2020 14:27:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 18:56:52 +0900</lastBuildDate>
     
         <atom:link href="/categories/game/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lurrus-Rogues</title>
+      <link>/post/mtg-match-1/lurrus-rogues/</link>
+      <pubDate>Tue, 08 Dec 2020 18:56:52 +0900</pubDate>
+      
+      <guid>/post/mtg-match-1/lurrus-rogues/</guid>
+      <description>久々の更新です。 最近はゼンディカーのカードもほぼほぼ集め終わったので、スタンダードを遊んでいます。 腕試しでマッチイベントに潜ったのでその感想</description>
+      
+    </item>
     
     <item>
       <title>ドラフト雑記</title>

@@ -1,7 +1,7 @@
 ---
 title: "Lurrus-Rogues"
 date: 2020-12-08T18:56:52+09:00
-draft: true
+draft: false
 tags:
   - MTGA
 categories:
